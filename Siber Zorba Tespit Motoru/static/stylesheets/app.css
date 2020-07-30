@@ -1,0 +1,37 @@
+h1 {
+	color: white;
+	font-size: 75px;
+	text-align: center;
+}
+
+p{
+	font-family: "Arial";
+	color: white;
+}
+
+div{
+	color: white;
+}
+
+
+body{
+	background: url("https://i.pinimg.com/originals/5c/f2/66/5cf2660af5f4214def7166dc7a7c8062.jpg");
+	background-size: no-repeat; 
+}
+
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+button{
+	width: 250px;
+	height: 50px;
+	padding: 20px;
+	border: 5px solid rgb(45,125,191);
+}
+
+

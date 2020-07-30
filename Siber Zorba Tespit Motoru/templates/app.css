@@ -1,0 +1,30 @@
+h1 {
+	color: white;
+	font-size: 100px;
+	text-align: center;
+}
+
+p{
+	color: white;
+}
+
+div{
+	color: white;
+}
+
+
+body{
+	background: url("https://i.pinimg.com/originals/5c/f2/66/5cf2660af5f4214def7166dc7a7c8062.jpg");
+	background-size: no-repeat; 
+}
+
+img{
+	width: 30%;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
