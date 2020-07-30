@@ -9,7 +9,7 @@ Proje sonunda bir tarayıcı eklentisi oluşturulurken aynı zamanda makine öğ
 
 30/07/2020
 
-Projemiz tamamlandı. 11.111 tweetten oluşan bir veri seti oluşturduk. Veri setindeki tweetler pozitif ve negatif olarak etiketlendi. Veri setimiz 6111 pozitif ve 5000 negatif tweet içeriyor. Veri seti oluştururken kendi yazdığımız scripti ve tweepy kütüphanesini kullandık. Twitter developer hesabımız ile api üzerinden çektiğimiz tweetleri otomatik olarak tagler ve kullanıcı isimlerinden arındırdık daha sonra tek tek okuyarak etiketleme işlemini yaptık.
+Projemiz tamamlandı. 11.111 tweetten oluşan bir veri seti oluşturduk. Bu veri seti yaptığımız literatür taramaları sonucu gördüğümüz üzere Türkiye'nin en geniş siber zorbalık veri setidir. Bunu da ülekmizdeki geliştiricilere ve açık kaynak platformuna sunduğumuz önemli bir değer olarak görüyoruz. Veri setindeki tweetler pozitif ve negatif olarak etiketlendi. Veri setimiz 6111 pozitif ve 5000 negatif tweet içeriyor. Veri seti oluştururken kendi yazdığımız scripti ve tweepy kütüphanesini kullandık. Twitter developer hesabımız ile api üzerinden çektiğimiz tweetleri otomatik olarak tagler ve kullanıcı isimlerinden arındırdık daha sonra tek tek okuyarak etiketleme işlemini yaptık.
 
 Projemiz için veri setini oluştururken kullandığımız script de projemizde "Tweet.py" dosyasında yer alıyor. Tweet çekebilmek için gerekli api keyleri hesabımıza özel olduğu için onları silmiş bulunuyoruz bu sebeple o modülü çalıştırmanız ne yazık ki mümkün değil ancak kullanımına demo videomuzda yer vereceğiz.
 
